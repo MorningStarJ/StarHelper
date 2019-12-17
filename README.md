@@ -1,3 +1,3 @@
-# StarUIKit
+# StarHelper
 
-A description of this package.
+This package provides the helper function of UI and DataType.
