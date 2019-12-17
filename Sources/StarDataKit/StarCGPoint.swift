@@ -6,7 +6,8 @@
 //
 
 import Foundation
-import UIKit
+import struct UIKit.CGPoint
+import struct UIKit.CGFloat
 
 public extension CGPoint {
     func distance(point: CGPoint) -> CGFloat {

@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import struct UIKit.CGFloat
 
 public extension Float {
     

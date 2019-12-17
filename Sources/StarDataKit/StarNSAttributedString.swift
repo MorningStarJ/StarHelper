@@ -6,7 +6,10 @@
 //
 
 import Foundation
-import UIKit
+import struct UIKit.CGFloat
+import struct UIKit.CGSize
+import class UIKit.UIFont
+import class UIKit.UIColor
 
 public extension NSAttributedString {
     func contentSize(width: CGFloat) -> CGSize {

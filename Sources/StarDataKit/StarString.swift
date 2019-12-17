@@ -7,6 +7,7 @@
 
 import Foundation
 import CommonCrypto
+import struct UIKit.CGFloat
 
 public extension String {
     var URLEscapedString: String {

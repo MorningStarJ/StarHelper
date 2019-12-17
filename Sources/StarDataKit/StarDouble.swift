@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import struct UIKit.CGFloat
 
 public extension Double {
     var stripTrailingZeros: String //去掉多余的0
