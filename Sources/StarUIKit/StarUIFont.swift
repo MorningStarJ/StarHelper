@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIFont {
+public extension UIFont {
     enum Style: String {
         case light = "Light"
         case medium = "Medium"
